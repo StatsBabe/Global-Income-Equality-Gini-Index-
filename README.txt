@@ -1,0 +1,11 @@
+This project became the thesis which I submitted in 2019 for MSc Applied Statistics & Computational Data Analytics at the University of London (I attained Merit).  The central concept is the Gini Index, a metric recognised by the United Nations as a reliable measure of a country's wealth inequality. This covariate is often abbreviated to "Gini" and roughly approximates the Lorenz and Kuznets curves and the Palma and Quintile indices. As we can see from the file "Poverty is falling but Gini is not", global poverty is gradually being addressed, but inequality is actually getting worse and may get completely out of hand (see "Scenarios Gini Index to 2050"). This is why it was identified as one of the major global challenges by Barak Obama in 2013.
+
+The specific area of the project is the effect of income inequality on global life expectancy (often abbreviated to "LE"). An unexpected construct within this causal chain is trust, that is, the general feeling that other people can be trusted ("Trust"). Similarly, social capital ("SC") or neighbourliness is proposed to be interlinked both with both trust and longevity.  The excellent World Values Survey revealed that trust is a very broad concept, which can be sub-divided into a feeling of well-being ("Health"), trust in family ("Tfam"), trust in people of the same nationality ("Tnat"), trust in people in a persons' personal circle ("Tpers"), trust in neighbours ("Tneigh"), trust in people of the same religion ("Trel").
+
+My project involved a wide range of Unsupervised Learning: Linear Discriminant Analysis (LDA), Canonical Variate Analysis (CVA), Cluster Analysis (CA), Principal Component Analysis (PCA). Supervised Learning. Machine Learning included Neural Networks (NN), Support Vector Machines (SVM), Multivariate Adaptive Regression Splines (MARS), Classification and Regression Trees (CART), and ensemble methods, Bagging, Boosting and Random Forests (RF).
+
+The project then branched out into Bayesian Simulation using Monte Carlo Markov Chains (MCMC), Gibbs and Metropolis-Hastings (MH). 
+
+A further extension included Partial Least Squares analysis which is a branch of Structural Equation Modelling (SEM).  I created the Powerpoint slide to explain this model. 
+
+Finally, I embraced interactive visualisations created by Shiny and R. 
