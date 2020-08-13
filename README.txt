@@ -8,4 +8,4 @@ The project then branched out into Bayesian Simulation using Monte Carlo Markov 
 
 A further extension included Partial Least Squares analysis which is a branch of Structural Equation Modelling (SEM).  I created the Powerpoint slide to explain this model. 
 
-Finally, I embraced interactive visualisations created by Shiny and R. 
+Finally, I embraced interactive visualisations created in R's Shiny and plotly packages. 
